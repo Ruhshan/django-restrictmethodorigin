@@ -15,7 +15,7 @@ setup(
     license='BSD License',  
     description='A simple Django app to restrict http methods to specific origin',
     long_description=README,
-    url='',
+    url='github.com/Ruhshan/django-restrictmethodorigin',
     author='Ruhshan Ahmed Abir',
     author_email='ruhshan.ahmed@gmail.com',
     classifiers=[
